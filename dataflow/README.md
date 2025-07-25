@@ -8,7 +8,7 @@
 
 #### set pipenv
 
-    pipenv --python ~/.pyenv/versions/3.8.10/bin/python
+    pipenv --python ~/.pyenv/versions/3.10.4/bin/python
 
 #### 安裝 repo 套件
 
